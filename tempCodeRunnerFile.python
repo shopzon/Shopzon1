@@ -1,0 +1,27 @@
+def about(aboutredirectbkmrk,modelname,imgspecslocation,modelname2,q1,a1,q2,a2,q3,a3,q4,a4,q5,a5,imgredirectbkmrk,backviewimgsrc,sideviewsimgsrc):
+    print("""<h1 id="{0}">{1}</h1>
+            <img src="{2}">  
+            <h1>Questions and Answers about {3}</h1>
+            <p>Q:{4}<br>A:{5}</p>    
+            <p>Q:{6}<br>A:{7}</p>
+            <p>Q:{8}<br>A:{9}</p>
+            <p>Q:{10}<br>A:{11}</p> 
+            <p>Q:{12}<br>A:{13}</p>  
+            <br> <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+            <h1 id="{14}">{15}</h1> 
+            <h2>Back view</h2>
+            <img src="{16}">  
+            <h2>Side views</h2> 
+            <img src="{17}">
+            <br> <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>""".format(aboutredirectbkmrk,modelname,imgspecslocation,modelname,q1,a1,q2,a2,q3,a3,q4,a4,q5,a5,imgredirectbkmrk,modelname,backviewimgsrc,sideviewsimgsrc)) 
+
+list=["aboutredirectbkmrk","modelname","imgspecslocation","modelname2","q1","a1","q2","a2","q3","a3","q4","a4","q5","a5","imgredirectbkmrk","backviewimgsrc","sideviewsimgsrc"]
+details=[]
+for i in range(0,17):
+    detail=input("Enter {0} ".format(list[i]))
+    details.append(detail)
+
+
+
+about(details[0],details[1],details[2],details[3],details[4],details[5],details[6],details[7],details[8],details[9],details[10],details[11],details[12],details[13],details[14],details[15],details[16])
+
