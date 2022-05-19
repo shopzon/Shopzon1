@@ -1,0 +1,510 @@
+<html>  
+    
+	<head>
+       
+ 	<title>Apple</title>
+    
+	</head> 
+
+        
+	<table border="2">
+            
+	<tr> 
+
+
+                
+	<td>
+                   
+	 <a href="about.html#r9img"><img src="iphone 12.jpg" alt="" width="200"></a> 
+                   
+	 <h2>IPHONE 12</h2> 
+                
+	<ul> 
+                    
+	<li>Amazon Price:Rs.54,900</li>
+                    
+	<li>Flipkart Price:Rs.59,999</li>
+                    
+	<li>Processor:A14 Bionic Chip </li>
+                    
+	<li>Battery: 2,815 mAH</li> 
+                   
+	 <li>Rear amera: 12MP + 12MP </li>
+                   
+	 <li>Front Camera: 12MP  </li>
+                   
+	 <li>RAM: 4GB/6GB</li>  
+                    
+	<li>Storage: 64GB/128GB/256Gb</li> 
+                    
+	<a href="about.html#redmi9"><p align="left"><b>About this item</b></p></a>  
+                    
+	<h2>Youtube Review:    <a href="https://www.youtube.com/watch?v=NSvlj54I7wo&t=58s">
+	<img src="yr.jpg" width="30">
+	</a>
+	</h2>
+                   
+               
+	 </ul>     
+                
+	<a href="https://www.amazon.in/New-Apple-iPhone-12-128GB/dp/B08L5TNJHG/ref=sr_1_1_sspa?crid=3VLDYVIDJFPDH&keywords=iphone%2B12&qid=1651220403&sprefix=iphone%2B12%2Caps%2C5575&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFIOE1BUzVMMjdORFcmZW5jcnlwdGVkSWQ9QTA1MjY1NDgySjVKTkpYSTU1SkJMJmVuY3J5cHRlZEFkSWQ9QTAyODkxNjlJMUgxMjVCRTZLWkEmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1">
+	<img src="buynow.jpg">
+	</a> 
+	<a href="https://www.flipkart.com/apple-iphone-12-red-64-gb/p/itm3481e4053d500?pid=MOBFWBYZDP6QCQ8F&lid=LSTMOBFWBYZDP6QCQ8FEL9UPN&marketplace=FLIPKART&q=iphone+12&store=tyy%2F4io&srno=s_1_1&otracker=AS_QueryStore_OrganicAutoSuggest_1_3_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_3_na_na_na&fm=organic&iid=ba6ee1a3-655e-4b45-bfb4-370b8de6b942.MOBFWBYZDP6QCQ8F.SEARCH&ppt=hp&ppn=homepage&ssid=3o4z0kw47k0000001651220741619&qH=7b7504afcaf2e1ea">
+	<img src="buynow.jpg">
+	</a>
+               
+	<br>
+                
+	<img src="amazon.png" height="15" align="left">       
+               
+	 <img src="flipkart.png" height="20" align="right">
+                
+	</td> 
+  
+	<td>
+                   
+	 <a href="about.html#r9img"><img src="iphone 12.jpg" alt="" width="200"></a> 
+                   
+	 <h2>IPHONE 12</h2> 
+                
+	<ul> 
+                    
+	<li>Amazon Price:Rs.54,900</li>
+                    
+	<li>Flipkart Price:Rs.59,999</li>
+                    
+	<li>Processor:A14 Bionic Chip </li>
+                    
+	<li>Battery: 2,815 mAH</li> 
+                   
+	 <li>Rear amera: 12MP + 12MP </li>
+                   
+	 <li>Front Camera: 12MP  </li>
+                   
+	 <li>RAM: 4GB/6GB</li>  
+                    
+	<li>Storage: 64GB/128GB/256Gb</li> 
+                    
+	<a href="about.html#redmi9"><p align="left"><b>About this item</b></p></a>  
+                    
+	<h2>Youtube Review:    <a href="https://www.youtube.com/watch?v=4tBQwvJbnxs">
+	<img src="yr.jpg" width="30">
+	</a>
+	</h2>
+                   
+               
+	 </ul>     
+                
+	<a href="https://www.amazon.in/New-Apple-iPhone-12-128GB/dp/B08L5TNJHG/ref=sr_1_1_sspa?crid=3VLDYVIDJFPDH&keywords=iphone%2B12&qid=1651220403&sprefix=iphone%2B12%2Caps%2C5575&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFIOE1BUzVMMjdORFcmZW5jcnlwdGVkSWQ9QTA1MjY1NDgySjVKTkpYSTU1SkJMJmVuY3J5cHRlZEFkSWQ9QTAyODkxNjlJMUgxMjVCRTZLWkEmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1">
+	<img src="buynow.jpg">
+	</a> 
+	<a href="https://www.flipkart.com/apple-iphone-12-red-64-gb/p/itm3481e4053d500?pid=MOBFWBYZDP6QCQ8F&lid=LSTMOBFWBYZDP6QCQ8FEL9UPN&marketplace=FLIPKART&q=iphone+12&store=tyy%2F4io&srno=s_1_1&otracker=AS_QueryStore_OrganicAutoSuggest_1_3_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_3_na_na_na&fm=organic&iid=ba6ee1a3-655e-4b45-bfb4-370b8de6b942.MOBFWBYZDP6QCQ8F.SEARCH&ppt=hp&ppn=homepage&ssid=3o4z0kw47k0000001651220741619&qH=7b7504afcaf2e1ea">
+	<img src="buynow.jpg">
+	</a>
+               
+	<br>
+                
+	<img src="amazon.png" height="15" align="left">       
+               
+	 <img src="flipkart.png" height="20" align="right">
+                
+	</td> 
+                
+	<td>
+                   
+	 <a href="about.html#r9img"><img src="iphone 12.jpg" alt="" width="200"></a> 
+                   
+	 <h2>IPHONE 12</h2> 
+                
+	<ul> 
+                    
+	<li>Amazon Price:Rs.54,900</li>
+                    
+	<li>Flipkart Price:Rs.59,999</li>
+                    
+	<li>Processor:A14 Bionic Chip </li>
+                    
+	<li>Battery: 2,815 mAH</li> 
+                   
+	 <li>Rear amera: 12MP + 12MP </li>
+                   
+	 <li>Front Camera: 12MP  </li>
+                   
+	 <li>RAM: 4GB/6GB</li>  
+                    
+	<li>Storage: 64GB/128GB/256Gb</li> 
+                    
+	<a href="about.html#redmi9"><p align="left"><b>About this item</b></p></a>  
+                    
+	<h2>Youtube Review:    <a href="https://www.youtube.com/watch?v=4tBQwvJbnxs">
+	<img src="yr.jpg" width="30">
+	</a>
+	</h2>
+                   
+               
+	 </ul>     
+                
+	<a href="https://www.amazon.in/New-Apple-iPhone-12-128GB/dp/B08L5TNJHG/ref=sr_1_1_sspa?crid=3VLDYVIDJFPDH&keywords=iphone%2B12&qid=1651220403&sprefix=iphone%2B12%2Caps%2C5575&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFIOE1BUzVMMjdORFcmZW5jcnlwdGVkSWQ9QTA1MjY1NDgySjVKTkpYSTU1SkJMJmVuY3J5cHRlZEFkSWQ9QTAyODkxNjlJMUgxMjVCRTZLWkEmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1">
+	<img src="buynow.jpg">
+	</a> 
+	<a href="https://www.flipkart.com/apple-iphone-12-red-64-gb/p/itm3481e4053d500?pid=MOBFWBYZDP6QCQ8F&lid=LSTMOBFWBYZDP6QCQ8FEL9UPN&marketplace=FLIPKART&q=iphone+12&store=tyy%2F4io&srno=s_1_1&otracker=AS_QueryStore_OrganicAutoSuggest_1_3_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_3_na_na_na&fm=organic&iid=ba6ee1a3-655e-4b45-bfb4-370b8de6b942.MOBFWBYZDP6QCQ8F.SEARCH&ppt=hp&ppn=homepage&ssid=3o4z0kw47k0000001651220741619&qH=7b7504afcaf2e1ea">
+	<img src="buynow.jpg">
+	</a>
+               
+	<br>
+                
+	<img src="amazon.png" height="15" align="left">       
+               
+	 <img src="flipkart.png" height="20" align="right">
+                
+	</td> 
+                
+	<td>
+                   
+	 <a href="about.html#r9img"><img src="iphone 12.jpg" alt="" width="200"></a> 
+                   
+	 <h2>IPHONE 12</h2> 
+                
+	<ul> 
+                    
+	<li>Amazon Price:Rs.54,900</li>
+                    
+	<li>Flipkart Price:Rs.59,999</li>
+                    
+	<li>Processor:A14 Bionic Chip </li>
+                    
+	<li>Battery: 2,815 mAH</li> 
+                   
+	 <li>Rear amera: 12MP + 12MP </li>
+                   
+	 <li>Front Camera: 12MP  </li>
+                   
+	 <li>RAM: 4GB/6GB</li>  
+                    
+	<li>Storage: 64GB/128GB/256Gb</li> 
+                    
+	<a href="about.html#redmi9"><p align="left"><b>About this item</b></p></a>  
+                    
+	<h2>Youtube Review:    <a href="https://www.youtube.com/watch?v=4tBQwvJbnxs">
+	<img src="yr.jpg" width="30">
+	</a>
+	</h2>
+                   
+               
+	 </ul>     
+                
+	<a href="https://www.amazon.in/New-Apple-iPhone-12-128GB/dp/B08L5TNJHG/ref=sr_1_1_sspa?crid=3VLDYVIDJFPDH&keywords=iphone%2B12&qid=1651220403&sprefix=iphone%2B12%2Caps%2C5575&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFIOE1BUzVMMjdORFcmZW5jcnlwdGVkSWQ9QTA1MjY1NDgySjVKTkpYSTU1SkJMJmVuY3J5cHRlZEFkSWQ9QTAyODkxNjlJMUgxMjVCRTZLWkEmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1">
+	<img src="buynow.jpg">
+	</a> 
+	<a href="https://www.flipkart.com/apple-iphone-12-red-64-gb/p/itm3481e4053d500?pid=MOBFWBYZDP6QCQ8F&lid=LSTMOBFWBYZDP6QCQ8FEL9UPN&marketplace=FLIPKART&q=iphone+12&store=tyy%2F4io&srno=s_1_1&otracker=AS_QueryStore_OrganicAutoSuggest_1_3_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_3_na_na_na&fm=organic&iid=ba6ee1a3-655e-4b45-bfb4-370b8de6b942.MOBFWBYZDP6QCQ8F.SEARCH&ppt=hp&ppn=homepage&ssid=3o4z0kw47k0000001651220741619&qH=7b7504afcaf2e1ea">
+	<img src="buynow.jpg">
+	</a>
+               
+	<br>
+                
+	<img src="amazon.png" height="15" align="left">       
+               
+	 <img src="flipkart.png" height="20" align="right">
+                
+	</td> 
+                
+	<td>
+                   
+	 <a href="about.html#r9img"><img src="iphone 12.jpg" alt="" width="200"></a> 
+                   
+	 <h2>IPHONE 12</h2> 
+                
+	<ul> 
+                    
+	<li>Amazon Price:Rs.54,900</li>
+                    
+	<li>Flipkart Price:Rs.59,999</li>
+                    
+	<li>Processor:A14 Bionic Chip </li>
+                    
+	<li>Battery: 2,815 mAH</li> 
+                   
+	 <li>Rear amera: 12MP + 12MP </li>
+                   
+	 <li>Front Camera: 12MP  </li>
+                   
+	 <li>RAM: 4GB/6GB</li>  
+                    
+	<li>Storage: 64GB/128GB/256Gb</li> 
+                    
+	<a href="about.html#redmi9"><p align="left"><b>About this item</b></p></a>  
+                    
+	<h2>Youtube Review:    <a href="https://www.youtube.com/watch?v=4tBQwvJbnxs">
+	<img src="yr.jpg" width="30">
+	</a>
+	</h2>
+                   
+               
+	 </ul>     
+                
+	<a href="https://www.amazon.in/New-Apple-iPhone-12-128GB/dp/B08L5TNJHG/ref=sr_1_1_sspa?crid=3VLDYVIDJFPDH&keywords=iphone%2B12&qid=1651220403&sprefix=iphone%2B12%2Caps%2C5575&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFIOE1BUzVMMjdORFcmZW5jcnlwdGVkSWQ9QTA1MjY1NDgySjVKTkpYSTU1SkJMJmVuY3J5cHRlZEFkSWQ9QTAyODkxNjlJMUgxMjVCRTZLWkEmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1">
+	<img src="buynow.jpg">
+	</a> 
+	<a href="https://www.flipkart.com/apple-iphone-12-red-64-gb/p/itm3481e4053d500?pid=MOBFWBYZDP6QCQ8F&lid=LSTMOBFWBYZDP6QCQ8FEL9UPN&marketplace=FLIPKART&q=iphone+12&store=tyy%2F4io&srno=s_1_1&otracker=AS_QueryStore_OrganicAutoSuggest_1_3_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_3_na_na_na&fm=organic&iid=ba6ee1a3-655e-4b45-bfb4-370b8de6b942.MOBFWBYZDP6QCQ8F.SEARCH&ppt=hp&ppn=homepage&ssid=3o4z0kw47k0000001651220741619&qH=7b7504afcaf2e1ea">
+	<img src="buynow.jpg">
+	</a>
+               
+	<br>
+                
+	<img src="amazon.png" height="15" align="left">       
+               
+	 <img src="flipkart.png" height="20" align="right">
+                
+	</td> 
+   
+	<tr> 
+
+
+                
+	<td>
+                   
+	 <a href="about.html#r9img"><img src="iphone 12.jpg" alt="" width="200"></a> 
+                   
+	 <h2>IPHONE 12</h2> 
+                
+	<ul> 
+                    
+	<li>Amazon Price:Rs.54,900</li>
+                    
+	<li>Flipkart Price:Rs.59,999</li>
+                    
+	<li>Processor:A14 Bionic Chip </li>
+                    
+	<li>Battery: 2,815 mAH</li> 
+                   
+	 <li>Rear amera: 12MP + 12MP </li>
+                   
+	 <li>Front Camera: 12MP  </li>
+                   
+	 <li>RAM: 4GB/6GB</li>  
+                    
+	<li>Storage: 64GB/128GB/256Gb</li> 
+                    
+	<a href="about.html#redmi9"><p align="left"><b>About this item</b></p></a>  
+                    
+	<h2>Youtube Review:    <a href="https://www.youtube.com/watch?v=4tBQwvJbnxs">
+	<img src="yr.jpg" width="30">
+	</a>
+	</h2>
+                   
+               
+	 </ul>     
+                
+	<a href="https://www.amazon.in/New-Apple-iPhone-12-128GB/dp/B08L5TNJHG/ref=sr_1_1_sspa?crid=3VLDYVIDJFPDH&keywords=iphone%2B12&qid=1651220403&sprefix=iphone%2B12%2Caps%2C5575&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFIOE1BUzVMMjdORFcmZW5jcnlwdGVkSWQ9QTA1MjY1NDgySjVKTkpYSTU1SkJMJmVuY3J5cHRlZEFkSWQ9QTAyODkxNjlJMUgxMjVCRTZLWkEmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1">
+	<img src="buynow.jpg">
+	</a> 
+	<a href="https://www.flipkart.com/apple-iphone-12-red-64-gb/p/itm3481e4053d500?pid=MOBFWBYZDP6QCQ8F&lid=LSTMOBFWBYZDP6QCQ8FEL9UPN&marketplace=FLIPKART&q=iphone+12&store=tyy%2F4io&srno=s_1_1&otracker=AS_QueryStore_OrganicAutoSuggest_1_3_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_3_na_na_na&fm=organic&iid=ba6ee1a3-655e-4b45-bfb4-370b8de6b942.MOBFWBYZDP6QCQ8F.SEARCH&ppt=hp&ppn=homepage&ssid=3o4z0kw47k0000001651220741619&qH=7b7504afcaf2e1ea">
+	<img src="buynow.jpg">
+	</a>
+               
+	<br>
+                
+	<img src="amazon.png" height="15" align="left">       
+               
+	 <img src="flipkart.png" height="20" align="right">
+                
+	</td> 
+  
+	<td>
+                   
+	 <a href="about.html#r9img"><img src="iphone 12.jpg" alt="" width="200"></a> 
+                   
+	 <h2>IPHONE 12</h2> 
+                
+	<ul> 
+                    
+	<li>Amazon Price:Rs.54,900</li>
+                    
+	<li>Flipkart Price:Rs.59,999</li>
+                    
+	<li>Processor:A14 Bionic Chip </li>
+                    
+	<li>Battery: 2,815 mAH</li> 
+                   
+	 <li>Rear amera: 12MP + 12MP </li>
+                   
+	 <li>Front Camera: 12MP  </li>
+                   
+	 <li>RAM: 4GB/6GB</li>  
+                    
+	<li>Storage: 64GB/128GB/256Gb</li> 
+                    
+	<a href="about.html#redmi9"><p align="left"><b>About this item</b></p></a>  
+                    
+	<h2>Youtube Review:    <a href="https://www.youtube.com/watch?v=4tBQwvJbnxs">
+	<img src="yr.jpg" width="30">
+	</a>
+	</h2>
+                   
+               
+	 </ul>     
+                
+	<a href="https://www.amazon.in/New-Apple-iPhone-12-128GB/dp/B08L5TNJHG/ref=sr_1_1_sspa?crid=3VLDYVIDJFPDH&keywords=iphone%2B12&qid=1651220403&sprefix=iphone%2B12%2Caps%2C5575&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFIOE1BUzVMMjdORFcmZW5jcnlwdGVkSWQ9QTA1MjY1NDgySjVKTkpYSTU1SkJMJmVuY3J5cHRlZEFkSWQ9QTAyODkxNjlJMUgxMjVCRTZLWkEmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1">
+	<img src="buynow.jpg">
+	</a> 
+	<a href="https://www.flipkart.com/apple-iphone-12-red-64-gb/p/itm3481e4053d500?pid=MOBFWBYZDP6QCQ8F&lid=LSTMOBFWBYZDP6QCQ8FEL9UPN&marketplace=FLIPKART&q=iphone+12&store=tyy%2F4io&srno=s_1_1&otracker=AS_QueryStore_OrganicAutoSuggest_1_3_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_3_na_na_na&fm=organic&iid=ba6ee1a3-655e-4b45-bfb4-370b8de6b942.MOBFWBYZDP6QCQ8F.SEARCH&ppt=hp&ppn=homepage&ssid=3o4z0kw47k0000001651220741619&qH=7b7504afcaf2e1ea">
+	<img src="buynow.jpg">
+	</a>
+               
+	<br>
+                
+	<img src="amazon.png" height="15" align="left">       
+               
+	 <img src="flipkart.png" height="20" align="right">
+                
+	</td> 
+                
+	<td>
+                   
+	 <a href="about.html#r9img"><img src="iphone 12.jpg" alt="" width="200"></a> 
+                   
+	 <h2>IPHONE 12</h2> 
+                
+	<ul> 
+                    
+	<li>Amazon Price:Rs.54,900</li>
+                    
+	<li>Flipkart Price:Rs.59,999</li>
+                    
+	<li>Processor:A14 Bionic Chip </li>
+                    
+	<li>Battery: 2,815 mAH</li> 
+                   
+	 <li>Rear amera: 12MP + 12MP </li>
+                   
+	 <li>Front Camera: 12MP  </li>
+                   
+	 <li>RAM: 4GB/6GB</li>  
+                    
+	<li>Storage: 64GB/128GB/256Gb</li> 
+                    
+	<a href="about.html#redmi9"><p align="left"><b>About this item</b></p></a>  
+                    
+	<h2>Youtube Review:    <a href="https://www.youtube.com/watch?v=4tBQwvJbnxs">
+	<img src="yr.jpg" width="30">
+	</a>
+	</h2>
+                   
+               
+	 </ul>     
+                
+	<a href="https://www.amazon.in/New-Apple-iPhone-12-128GB/dp/B08L5TNJHG/ref=sr_1_1_sspa?crid=3VLDYVIDJFPDH&keywords=iphone%2B12&qid=1651220403&sprefix=iphone%2B12%2Caps%2C5575&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFIOE1BUzVMMjdORFcmZW5jcnlwdGVkSWQ9QTA1MjY1NDgySjVKTkpYSTU1SkJMJmVuY3J5cHRlZEFkSWQ9QTAyODkxNjlJMUgxMjVCRTZLWkEmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1">
+	<img src="buynow.jpg">
+	</a> 
+	<a href="https://www.flipkart.com/apple-iphone-12-red-64-gb/p/itm3481e4053d500?pid=MOBFWBYZDP6QCQ8F&lid=LSTMOBFWBYZDP6QCQ8FEL9UPN&marketplace=FLIPKART&q=iphone+12&store=tyy%2F4io&srno=s_1_1&otracker=AS_QueryStore_OrganicAutoSuggest_1_3_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_3_na_na_na&fm=organic&iid=ba6ee1a3-655e-4b45-bfb4-370b8de6b942.MOBFWBYZDP6QCQ8F.SEARCH&ppt=hp&ppn=homepage&ssid=3o4z0kw47k0000001651220741619&qH=7b7504afcaf2e1ea">
+	<img src="buynow.jpg">
+	</a>
+               
+	<br>
+                
+	<img src="amazon.png" height="15" align="left">       
+               
+	 <img src="flipkart.png" height="20" align="right">
+                
+	</td> 
+                
+	<td>
+                   
+	 <a href="about.html#r9img"><img src="iphone 12.jpg" alt="" width="200"></a> 
+                   
+	 <h2>IPHONE 12</h2> 
+                
+	<ul> 
+                    
+	<li>Amazon Price:Rs.54,900</li>
+                    
+	<li>Flipkart Price:Rs.59,999</li>
+                    
+	<li>Processor:A14 Bionic Chip </li>
+                    
+	<li>Battery: 2,815 mAH</li> 
+                   
+	 <li>Rear amera: 12MP + 12MP </li>
+                   
+	 <li>Front Camera: 12MP  </li>
+                   
+	 <li>RAM: 4GB/6GB</li>  
+                    
+	<li>Storage: 64GB/128GB/256Gb</li> 
+                    
+	<a href="about.html#redmi9"><p align="left"><b>About this item</b></p></a>  
+                    
+	<h2>Youtube Review:    <a href="https://www.youtube.com/watch?v=4tBQwvJbnxs">
+	<img src="yr.jpg" width="30">
+	</a>
+	</h2>
+                   
+               
+	 </ul>     
+                
+	<a href="https://www.amazon.in/New-Apple-iPhone-12-128GB/dp/B08L5TNJHG/ref=sr_1_1_sspa?crid=3VLDYVIDJFPDH&keywords=iphone%2B12&qid=1651220403&sprefix=iphone%2B12%2Caps%2C5575&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFIOE1BUzVMMjdORFcmZW5jcnlwdGVkSWQ9QTA1MjY1NDgySjVKTkpYSTU1SkJMJmVuY3J5cHRlZEFkSWQ9QTAyODkxNjlJMUgxMjVCRTZLWkEmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1">
+	<img src="buynow.jpg">
+	</a> 
+	<a href="https://www.flipkart.com/apple-iphone-12-red-64-gb/p/itm3481e4053d500?pid=MOBFWBYZDP6QCQ8F&lid=LSTMOBFWBYZDP6QCQ8FEL9UPN&marketplace=FLIPKART&q=iphone+12&store=tyy%2F4io&srno=s_1_1&otracker=AS_QueryStore_OrganicAutoSuggest_1_3_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_3_na_na_na&fm=organic&iid=ba6ee1a3-655e-4b45-bfb4-370b8de6b942.MOBFWBYZDP6QCQ8F.SEARCH&ppt=hp&ppn=homepage&ssid=3o4z0kw47k0000001651220741619&qH=7b7504afcaf2e1ea">
+	<img src="buynow.jpg">
+	</a>
+               
+	<br>
+                
+	<img src="amazon.png" height="15" align="left">       
+               
+	 <img src="flipkart.png" height="20" align="right">
+                
+	</td> 
+                
+	<td>
+                   
+	 <a href="about.html#r9img"><img src="iphone 12.jpg" alt="" width="200"></a> 
+                   
+	 <h2>IPHONE 12</h2> 
+                
+	<ul> 
+                    
+	<li>Amazon Price:Rs.54,900</li>
+                    
+	<li>Flipkart Price:Rs.59,999</li>
+                    
+	<li>Processor:A14 Bionic Chip </li>
+                    
+	<li>Battery: 2,815 mAH</li> 
+                   
+	 <li>Rear amera: 12MP + 12MP </li>
+                   
+	 <li>Front Camera: 12MP  </li>
+                   
+	 <li>RAM: 4GB/6GB</li>  
+                    
+	<li>Storage: 64GB/128GB/256Gb</li> 
+                    
+	<a href="about.html#redmi9"><p align="left"><b>About this item</b></p></a>  
+                    
+	<h2>Youtube Review:    <a href="https://www.youtube.com/watch?v=4tBQwvJbnxs">
+	<img src="yr.jpg" width="30">
+	</a>
+	</h2>
+                   
+               
+	 </ul>     
+                
+	<a href="https://www.amazon.in/New-Apple-iPhone-12-128GB/dp/B08L5TNJHG/ref=sr_1_1_sspa?crid=3VLDYVIDJFPDH&keywords=iphone%2B12&qid=1651220403&sprefix=iphone%2B12%2Caps%2C5575&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFIOE1BUzVMMjdORFcmZW5jcnlwdGVkSWQ9QTA1MjY1NDgySjVKTkpYSTU1SkJMJmVuY3J5cHRlZEFkSWQ9QTAyODkxNjlJMUgxMjVCRTZLWkEmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1">
+	<img src="buynow.jpg">
+	</a> 
+	<a href="https://www.flipkart.com/apple-iphone-12-red-64-gb/p/itm3481e4053d500?pid=MOBFWBYZDP6QCQ8F&lid=LSTMOBFWBYZDP6QCQ8FEL9UPN&marketplace=FLIPKART&q=iphone+12&store=tyy%2F4io&srno=s_1_1&otracker=AS_QueryStore_OrganicAutoSuggest_1_3_na_na_na&otracker1=AS_QueryStore_OrganicAutoSuggest_1_3_na_na_na&fm=organic&iid=ba6ee1a3-655e-4b45-bfb4-370b8de6b942.MOBFWBYZDP6QCQ8F.SEARCH&ppt=hp&ppn=homepage&ssid=3o4z0kw47k0000001651220741619&qH=7b7504afcaf2e1ea">
+	<img src="buynow.jpg">
+	</a>
+               
+	<br>
+                
+	<img src="amazon.png" height="15" align="left">       
+               
+	 <img src="flipkart.png" height="20" align="right">
+                
+	</td> 
+                   
+</html>	
